@@ -1,8 +1,8 @@
-name: GitHub - Activity - Readme
+name: Update README
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
