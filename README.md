@@ -1,7 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envomp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=envomp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>Github Stats</summary>
-
-  <img align="left" alt="Enrico`s Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=envomp&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="Enrico`s Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=envomp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img align="left" alt="Enrico`s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envomp&layout=compact" />
