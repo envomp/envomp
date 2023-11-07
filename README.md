@@ -21,3 +21,7 @@ public class HelloWorld {
 }
 ```
 
+<details>
+  <summary>CV</summary>
+  <img align="left" alt="CV" src="enrico_vompa_cv.png" />
+</details>
