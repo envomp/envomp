@@ -25,3 +25,8 @@ public class HelloWorld {
   <summary>CV</summary>
   <img align="left" alt="CV" src="enrico_vompa_cv.png" />
 </details>
+
+<details>
+  <summary>Masters Thesis on Data Lakehouse Architecture</summary>
+  <p><a href="https://digikogu.taltech.ee/en/Item/472b9cba-f80b-49d2-81af-2f59eed03f16">Hyperlink to TalTech digital library</a></p>
+</details>
